@@ -5,6 +5,7 @@
         android:id="@+id/fragment_photo_gallery"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
+        android:scrollbars="vertical"
         tools:context="com.example.oleksandr.photogallery.PhotoGalleryActivity">
-
 </android.support.v7.widget.RecyclerView>
+
